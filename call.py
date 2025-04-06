@@ -1,3 +1,3 @@
-import code.Control as c
+import coden.Control as c
 pet,params,data=c.controll()
 print(pet,params)
