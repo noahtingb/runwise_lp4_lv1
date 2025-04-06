@@ -1,8 +1,8 @@
 import numpy as np
-import code.Solweig as so
-import code.Clearnessindex as ci
-import code.Pet_Calc as p
-import code.Sun_Position as sp
+import coden.Solweig as so
+import coden.Clearnessindex as ci
+import coden.Pet_Calc as p
+import coden.Sun_Position as sp
 import datetime
 
 def Solweig_2015a_metdata_noload(year,doy,hour,minu, location, UTC=0):
