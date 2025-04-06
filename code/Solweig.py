@@ -1,6 +1,5 @@
-from __future__ import absolute_import
 import numpy as np
-from Clearnessindex import clearnessindex_2013b
+from coden.Clearnessindex import clearnessindex_2013b
 import numpy as np
 
 def Perez_v3(zen, azimuth, radD, radI, jday):
