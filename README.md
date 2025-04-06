@@ -1,2 +1,3 @@
-# sakerlopning
-sakerlopning förenkling av deras kod med en viss egen hantering
+# Säker Löpning
+Säker löpning förenkling av deras kod med en viss egen hantering
+Mycket av koden finns inte här
