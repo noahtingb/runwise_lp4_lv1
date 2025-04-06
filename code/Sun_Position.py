@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
-from __future__ import division
-import datetime
 import numpy as np
-
 
 def sun_position(time, location):
     """
